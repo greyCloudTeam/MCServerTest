@@ -6,7 +6,8 @@ MCServerTest
 ![检测后结果](https://github.com/greyCloudTeam/MCServerTest/blob/master/b.png)
 
 -------------
-目前仅支持1.7以上版本的服务器进行测试，在以后会支持更多版本  
+目前仅支持1.7以上版本的服务器进行测试，在以后会支持更多版本(划掉)  
+本仓库暂时停止维护，以后可能会再次更新   
 
 -------------
 本程序基于一个名为mcstat的项目  
